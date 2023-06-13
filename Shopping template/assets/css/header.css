@@ -1,0 +1,5 @@
+.header-top .social-media-icons ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}

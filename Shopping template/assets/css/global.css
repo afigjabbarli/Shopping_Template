@@ -1,0 +1,11 @@
+.col-6{
+    width: 50%;
+}
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    width: 80%;
+}
